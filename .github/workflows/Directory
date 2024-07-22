@@ -1,0 +1,34 @@
+CriptoDashboard/
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── ...
+│
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── app.js
+│   ├── package.json
+│   └── ...
+│
+├── database/
+│   ├── migrations/
+│   ├── seeds/
+│   ├── config.js
+│   └── ...
+│
+├── docs/
+│   ├── API_Documentation.md
+│   ├── User_Guide.md
+│   └── ...
+│
+├── tests/
+│   ├── frontend/
+│   ├── backend/
+│   └── ...
+│
+├── README.md
+└── .gitignore
